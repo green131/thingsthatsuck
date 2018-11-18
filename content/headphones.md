@@ -4,8 +4,8 @@ title: Phiaton BT 460 Black Wireless Touch Interface Headphones with Microphone
 url: /headphones
 date: "2018-08-29"
 description: "Lets you prepare egg dishes in the microwave"
-image: "img/phiatonHeadPhones.jpg"
-thumbnail: "img/phiatonHeadPhones.jpg"
+image: "/img/phiatonHeadPhones.jpg"
+thumbnail: "/img/phiatonHeadPhones.jpg"
 categories:
 - Demo
 credit: ""

@@ -4,8 +4,8 @@ title: Arctix Snowpants
 url: /snowpants
 date: "2018-08-29"
 description: "Do not buy cheap snowpants"
-image: "img/snowpants.jpg"
-thumbnail: "img/snowpants.jpg"
+image: "/img/snowpants.jpg"
+thumbnail: "/img/snowpants.jpg"
 categories:
 - Demo
 credit: ""

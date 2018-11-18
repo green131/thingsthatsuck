@@ -4,8 +4,8 @@ title: Being Bald
 url: /bald
 date: "2018-08-29"
 description: "What's wrong with being bald?"
-image: "img/bald.jpg"
-thumbnail: "img/bald.jpg"
+image: "/img/bald.jpg"
+thumbnail: "/img/bald.jpg"
 categories:
 - Demo
 credit: ""

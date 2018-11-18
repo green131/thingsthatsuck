@@ -4,8 +4,8 @@ title: Aingoo Large Writing Desk with Drawer 43x22 Rustic Computer Desk Slim Met
 url: /crappy-desk
 date: "2018-08-29"
 description: "Crap-o-riffic writing desk"
-image: "img/woodTable.jpg"
-thumbnail: "img/woodTable.jpg"
+image: "/img/woodTable.jpg"
+thumbnail: "/img/woodTable.jpg"
 categories:
 - Demo
 credit: ""

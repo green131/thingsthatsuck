@@ -4,8 +4,8 @@ title: Sistema Microwave Cookware Easy Eggs
 url: /easyeggs
 date: "2018-08-29"
 description: "Lets you prepare egg dishes in the microwave"
-image: "img/microwaveEasyEggs.jpg"
-thumbnail: "img/microwaveEasyEggs.jpg"
+image: "/img/microwaveEasyEggs.jpg"
+thumbnail: "/img/microwaveEasyEggs.jpg"
 categories:
 - Demo
 credit: ""
