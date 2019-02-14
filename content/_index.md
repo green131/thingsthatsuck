@@ -1,5 +1,5 @@
 ---
-title: Things that Suck! V3
+title: Things that Suck! V4
 subtitle: "Stuff I've bought, experienced or simply don't like."
 ---
 ![Dave](/img/dave.jpg)
